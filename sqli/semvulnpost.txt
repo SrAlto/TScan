@@ -1,0 +1,6 @@
+http://www.oab-ba.org.br/@@busca?SearchableText='
+http://www.oab-ba.org.br/busca/?tx_mnogosearch_pi1[q]='
+http://www.cnsn.com.br/buscar.php?s='
+http://www.cnsn.com.br/buscador.php?s='
+http://www.cnsn.com.br/search.php?s='
+http://www.cnsn.com.br/gsearch?s='

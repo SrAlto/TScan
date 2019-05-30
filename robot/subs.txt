@@ -1,0 +1,8 @@
+http://teacherni.com/robots.txt
+http://teacherni.com/sitemap.xml
+http://teacherni.com/robots.txt
+http://teacherni.com/sitemap.xml
+https://magnetsec.com/robots.txt
+https://magnetsec.com/sitemap.xml
+http://roquemudancas.com.br/robots.txt
+http://www.cnsn.com.br/robots.txt
